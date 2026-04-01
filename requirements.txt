@@ -1,4 +1,0 @@
-streamlit
-openai
-requests
-pillow==10.2.0
